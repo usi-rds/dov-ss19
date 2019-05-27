@@ -1,5 +1,5 @@
 # Digitise, Optimise, Visualise
-## Summer School 2019/2020 @ USI
+### Summer School 2019/2020 @ USI
 
 Optimisation is an important tool across all fields of quantitative research. This includes finance, engineering, economics, biology, physics, astronomy,....you name it. In this summer school you will learn:
 
@@ -29,10 +29,12 @@ This class benefits of the support of [DataCamp](https://www.datacamp.com). In t
 ### Venue & Dates
 **Università della Svizzera italiana**  
 Via Buffi 13 
+
 6900 Lugano, 
+
 Switzerland 
 
-**Module** | **Time** | **Period**
+**Module** | **Title** | **Period**
 -----|------|----------
 **1**| Digital boot camp | 1 July - 6 July 2019
 **2**| Optimisation: Theory and Practice | 8 July - 13 July 2019
