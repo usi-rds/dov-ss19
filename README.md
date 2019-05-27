@@ -29,9 +29,7 @@ This class benefits of the support of [DataCamp](https://www.datacamp.com). In t
 ### Venue & Dates
 **Università della Svizzera italiana**  
 Via Buffi 13 
-
 6900 Lugano, 
-
 Switzerland 
 
 **Module** | **Title** | **Period**
@@ -40,8 +38,6 @@ Switzerland
 **2**| Optimisation: Theory and Practice | 8 July - 13 July 2019
 **3**| Advanced Applications in Optimisation | Feb 5 - Feb 11 2020
 
-### Syllabus
-Please download the current syllabus from [here]()
 
 ### GitHub Classroom configuration
 The course uses GitHub Classrooms to distribute course materials and assignments. The steps required for getting started 
