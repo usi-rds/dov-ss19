@@ -32,14 +32,11 @@ Via Buffi 13
 6900 Lugano, 
 Switzerland 
 
-**Date** | **Time** | **Classroom**
+**Module** | **Time** | **Period**
 -----|------|----------
-**Module 1**| Digital boot camp 1 July - 6 July |
-2019.07.01 | 10:30 - 12:00 & 13:30 - 15:00 | Room 205
-2019.07.02 | 10:30 - 12:00 & 13:30 - 15:00 | Room 205
-2019.07.03 | 10:30 - 12:00 & 13:30 - 15:00 | Room 205
-2019.07.04 | 10:30 - 12:00 & 13:30 - 15:00 | Room 205
-2019.05.29 | 10:30 - 12:00 & 13:30 - 15:00 | Room 205 
+**1**| Digital boot camp | 1 July - 6 July 2019
+**2**| Optimisation: Theory and Practice | 8 July - 13 July 2019
+**3**| Advanced Applications in Optimisation | Feb 5 - Feb 11 2020
 
 ### Syllabus
 Please download the current syllabus from [here]()
@@ -48,5 +45,5 @@ Please download the current syllabus from [here]()
 The course uses GitHub Classrooms to distribute course materials and assignments. The steps required for getting started 
 can be found in the [GitHub Classroom configuration tutorial](classroom_tutorial.md). 
 
-### Support or Contact
-For questions and support please contact support@alphacruncher.com by stating the class name in the subject line.
+### Contact
+For questions please contact summerschooldov@usi.ch
