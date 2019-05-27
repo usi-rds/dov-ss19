@@ -28,9 +28,9 @@ This class benefits of the support of [DataCamp](https://www.datacamp.com). In t
 
 ### Venue & Dates
 **Università della Svizzera italiana**  
-Via Buffi 13 
-6900 Lugano, 
-Switzerland 
+Via Buffi 13  
+6900 Lugano,  
+Switzerland  
 
 **Module** | **Title** | **Period**
 -----|------|----------
