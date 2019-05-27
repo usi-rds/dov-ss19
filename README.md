@@ -1,5 +1,5 @@
 # Digitise, Optimise, Visualise
-Summer School 2019/2020 @ USI
+## Summer School 2019/2020 @ USI
 
 Optimisation is an important tool across all fields of quantitative research. This includes finance, engineering, economics, biology, physics, astronomy,....you name it. In this summer school you will learn:
 
