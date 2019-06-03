@@ -11,7 +11,7 @@ Optimisation is an important tool across all fields of quantitative research. Th
 To learn all of this we will introduce you to fundamental mathematical ideas that are at the heart of our modern world. These concepts have very appealing geometric interpretations and we will work with innovative teaching concepts and visualisations to sharpen your intuition. Our tool of choice will be python, a widely used program in data science. You will learn how to access data and optimisation libraries and how to visualise your problems. In 3 weeks we will guide you from zero to cutting-edge applications and knowledge that will prove useful in your work as a student, or industry professional.
 
 ### Acknowledgement
-This class benefits from the support of [DataCamp](https://www.datacamp.com). In the framework of the course Python is used to acquaint participants with the basics of object oriented programming and learn basic problem and data visualisation techniques. Understanding and formulating linear programs will anticipate intuition about convex programs taught in the second module. As prerequisites are the following courses available on DataCamp:
+This class benefits from the support of [Tableau](https://www.tableau.com/) and [DataCamp](https://www.datacamp.com). In the framework of the course Python is used to acquaint participants with the basics of object oriented programming and learn basic problem and data visualisation techniques. Understanding and formulating linear programs will anticipate intuition about convex programs taught in the second module. As prerequisites are the following courses available on DataCamp:
 
 1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 1. [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
@@ -22,6 +22,9 @@ This class benefits from the support of [DataCamp](https://www.datacamp.com). In
 * [Peter Gruber, University of Lugano](https://people.lu.usi.ch/gruberp/)
 * [Piotr Orłowski, HEC Montréal](https://piotrek-orlowski.github.io/index.html)
 * [Fabio Trojani, University of Geneva](http://www.people.usi.ch/trojanif/)
+
+### Teaching Assitants
+* [Alexandru Popescu, University of Lugano](https://search.usi.ch/en/people/27ea23408308561dd65b0e6520433754/popescu-alexandru)
 
 ### Organizer
 * [Paul Schneider](https://sites.google.com/view/paul-schneider)
