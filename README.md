@@ -23,9 +23,6 @@ This class benefits from the support of [Tableau](https://www.tableau.com/) and 
 * [Piotr Orłowski, HEC Montréal](https://piotrek-orlowski.github.io/index.html)
 * [Fabio Trojani, University of Geneva](http://www.people.usi.ch/trojanif/)
 
-### Teaching Assitants
-* [Alexandru Popescu, University of Lugano](https://search.usi.ch/en/people/27ea23408308561dd65b0e6520433754/popescu-alexandru)
-
 ### Organizer
 * [Paul Schneider](https://sites.google.com/view/paul-schneider)
 
